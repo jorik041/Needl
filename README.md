@@ -1,3 +1,5 @@
+# 🚨 Needl is no longer maintained. If you need support or consultation for your privacy endeavours, drop me an e-mail paul@darkport.co.uk 🚨
+
 # Needl
 
 **Take back your privacy. Lose yourself in the haystack.**
